@@ -2,7 +2,13 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MAUI_Custom_Controls.MainPage"
-             xmlns:custom="clr-namespace:MAUI_Custom_Controls.CustomControls">
+             xmlns:custom="clr-namespace:MAUI_Custom_Controls.CustomControls"
+             xmlns:viewmodels="clr-namespace:MAUI_Custom_Controls.ViewModels"
+             x:DataType="viewmodels:TimeViewModel">
+
+    <ContentPage.BindingContext>
+        <viewmodels:TimeViewModel/>
+    </ContentPage.BindingContext>
 
     <ScrollView>
         <VerticalStackLayout
@@ -22,23 +28,21 @@
                 FontSize="32"
                 HorizontalOptions="Center" />
 
-            <Label
-                Text="Welcome to .NET Multi-platform App UI"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
-                HorizontalOptions="Center" />
-
-            <Button
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Center" />
-
-            <StackLayout BackgroundColor="GreenYellow" Padding="20">
+            <VerticalStackLayout BackgroundColor="GreenYellow" Padding="20">
+                <Label Text="Custom Entry:"/>
                 <custom:CustomEntry/>
-            </StackLayout>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout>
+                <Label Text="Standard TimePicker:"/>
+                <TimePicker/>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout HorizontalOptions="Center">
+                <Label Text="Custom TimePicker"
+                       HorizontalOptions="Center"/>
+                <custom:CustomTimePicker/>
+            </VerticalStackLayout>
 
         </VerticalStackLayout>
     </ScrollView>
