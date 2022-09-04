@@ -1,9 +1,16 @@
 ﻿<Properties StartupConfiguration="{6C166343-102F-459C-B282-6819588A7C36}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3_XL_A12" />
+  <MonoDevelop.Ide.ItemProperties.MAUI__Custom__Controls PreferredExecutionTarget="Android.Pixel_3_XL_A12" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs">
     <Files>
-      <File FileName="MAUI_Custom_Controls/MainPage.xaml" Line="10" Column="36" />
-      <File FileName="MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs" Line="94" Column="32" />
-      <File FileName="MAUI_Custom_Controls/ViewModels/TimeViewModel.cs" Line="2" Column="44" />
+      <File FileName="MAUI_Custom_Controls/MainPage.xaml" />
+      <File FileName="MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs" Line="95" Column="2" />
+      <File FileName="MAUI_Custom_Controls/ViewModels/TimeViewModel.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,15 +27,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.99.36" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3_XL_A12" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs" relfile="MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs" line="28" column="1" />
-      <Breakpoint file="/Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs" relfile="MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs" line="30" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.MAUI__Custom__Controls PreferredExecutionTarget="Android.Pixel_3_XL_A12" />
 </Properties>

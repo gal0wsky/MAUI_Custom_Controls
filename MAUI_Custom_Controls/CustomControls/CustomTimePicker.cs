@@ -56,10 +56,12 @@ public class CustomTimePicker : TimePicker
 		
 		TimeHelpers.Time = SelectedTime;
 
+#if __ANDROID__
 		PropertyChanged += (s, e) =>
 		{
 			Time = SelectedTime;
 		};
+#endif
 
 		Microsoft.Maui.Handlers.TimePickerHandler.Mapper.AppendToMapping(nameof(CustomTimePicker), (handler, view) =>
 		{
