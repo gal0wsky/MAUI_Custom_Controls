@@ -1,25 +1,24 @@
 ﻿<Properties StartupConfiguration="{6C166343-102F-459C-B282-6819588A7C36}|Default">
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3_XL_A12" />
-  <MonoDevelop.Ide.ItemProperties.MAUI__Custom__Controls PreferredExecutionTarget="Android.Pixel_3_XL_A12" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.99.36" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9F5527A4-2284-4BF8-8714-ED3C3D078C3D" />
+  <MonoDevelop.Ide.ItemProperties.MAUI__Custom__Controls PreferredExecutionTarget="net6.0-android" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MAUI_Custom_Controls/MainPage.xaml">
     <Files>
-      <File FileName="MAUI_Custom_Controls/MainPage.xaml" />
-      <File FileName="MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs" Line="95" Column="2" />
+      <File FileName="MAUI_Custom_Controls/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs" Line="63" Column="1" />
       <File FileName="MAUI_Custom_Controls/ViewModels/TimeViewModel.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MAUI_Custom_Controls" expanded="True">
-            <Node name="MAUI_Custom_Controls" expanded="True">
+            <Node name="MAUI_Custom_Controls" expanded="True" selected="True">
               <Node name="CustomControls" expanded="True" />
               <Node name="ViewModels" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -27,5 +26,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.99.36" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

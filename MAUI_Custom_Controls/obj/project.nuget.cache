@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "54mWGsK5fIQlWuQDW/XTfzfaoKDgSuhzcizXhYuHHLVDwg4S/KeeCpIoHu2UguSDOZQQzJFk5kenujYsT4lrGQ==",
+  "dgSpecHash": "nShQJGEVwuRi2pjHwP57oEX61escRUce0Xy2798P7w3WnQc36MJHIEhg1oCKxSQ0R8Rbf384OELAU4RLXpCYKA==",
   "success": true,
   "projectFilePath": "/Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/MAUI_Custom_Controls.csproj",
   "expectedPackageFiles": [
@@ -16,8 +16,8 @@
     "/Users/gal0wsky/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "/Users/gal0wsky/.nuget/packages/microsoft.maui.dependencies/6.0.486/microsoft.maui.dependencies.6.0.486.nupkg.sha512",
-    "/Users/gal0wsky/.nuget/packages/microsoft.maui.extensions/6.0.486/microsoft.maui.extensions.6.0.486.nupkg.sha512",
+    "/Users/gal0wsky/.nuget/packages/microsoft.maui.dependencies/6.0.536/microsoft.maui.dependencies.6.0.536.nupkg.sha512",
+    "/Users/gal0wsky/.nuget/packages/microsoft.maui.extensions/6.0.536/microsoft.maui.extensions.6.0.536.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/microsoft.maui.graphics/6.0.403/microsoft.maui.graphics.6.0.403.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
