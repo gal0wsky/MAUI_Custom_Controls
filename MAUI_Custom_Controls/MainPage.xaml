@@ -4,7 +4,7 @@
              x:Class="MAUI_Custom_Controls.MainPage"
              xmlns:custom="clr-namespace:MAUI_Custom_Controls.CustomControls"
              xmlns:viewmodels="clr-namespace:MAUI_Custom_Controls.ViewModels"
-             x:DataType="viewmodels:TimeViewModel">
+             x:DataType="viewmodels:MainPageViewModel">
 
     <ContentPage.BindingContext>
         <viewmodels:TimeViewModel/>
@@ -16,7 +16,7 @@
             Padding="30,0"
             VerticalOptions="Center">
 
-            <Image
+            <!--<Image
                 Source="dotnet_bot.png"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="200"
@@ -42,6 +42,25 @@
                 <Label Text="Custom TimePicker"
                        HorizontalOptions="Center"/>
                 <custom:CustomTimePicker/>
+            </VerticalStackLayout>-->
+
+            <VerticalStackLayout x:DataType="viewmodels:MainPageViewModel">
+                <Button Text="Click to rotate"
+                        Command="{Binding RefreshLongCommand}"
+                        IsEnabled="{Binding IsNotBusy}"/>
+
+                <Frame x:Name="MyBox"
+                         WidthRequest="100"
+                         HeightRequest="100"
+                         BackgroundColor="Blue"
+                         Margin="50, 100">
+
+                    <BoxView WidthRequest="25"
+                             HeightRequest="25"
+                             Color="White"
+                             CornerRadius="50"/>
+
+                </Frame>
             </VerticalStackLayout>
 
         </VerticalStackLayout>

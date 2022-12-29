@@ -4,6 +4,12 @@
         <name>MAUI_Custom_Controls</name>
     </assembly>
     <members>
+        <member name="F:MAUI_Custom_Controls.ViewModels.MainPageViewModel.refreshLongCommand">
+            <summary>The backing field for <see cref="P:MAUI_Custom_Controls.ViewModels.MainPageViewModel.RefreshLongCommand"/>.</summary>
+        </member>
+        <member name="P:MAUI_Custom_Controls.ViewModels.MainPageViewModel.RefreshLongCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MAUI_Custom_Controls.ViewModels.MainPageViewModel.RefreshLong(Microsoft.Maui.Controls.BoxView)"/>.</summary>
+        </member>
         <member name="P:MAUI_Custom_Controls.ViewModels.TimeViewModel.Time">
             <inheritdoc cref="F:MAUI_Custom_Controls.ViewModels.TimeViewModel.time"/>
         </member>

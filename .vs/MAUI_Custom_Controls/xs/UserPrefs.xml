@@ -1,30 +1,35 @@
 ﻿<Properties StartupConfiguration="{6C166343-102F-459C-B282-6819588A7C36}|Default">
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.99.36" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9F5527A4-2284-4BF8-8714-ED3C3D078C3D" />
-  <MonoDevelop.Ide.ItemProperties.MAUI__Custom__Controls PreferredExecutionTarget="net6.0-android" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MAUI__Custom__Controls PreferredExecutionTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MAUI_Custom_Controls/MainPage.xaml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MAUI_Custom_Controls/MainPage.xaml.cs">
     <Files>
-      <File FileName="MAUI_Custom_Controls/MainPage.xaml" Line="1" Column="1" />
-      <File FileName="MAUI_Custom_Controls/CustomControls/CustomTimePicker.cs" Line="63" Column="1" />
-      <File FileName="MAUI_Custom_Controls/ViewModels/TimeViewModel.cs" />
+      <File FileName="MAUI_Custom_Controls/MainPage.xaml.cs" Line="39" Column="83" />
+      <File FileName="MAUI_Custom_Controls/MainPage.xaml" Line="56" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MAUI_Custom_Controls" expanded="True">
-            <Node name="MAUI_Custom_Controls" expanded="True" selected="True">
+            <Node name="MAUI_Custom_Controls" expanded="True">
               <Node name="CustomControls" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="MainPageViewModel.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.99.61" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

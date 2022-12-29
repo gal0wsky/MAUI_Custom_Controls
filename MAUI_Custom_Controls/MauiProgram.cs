@@ -15,6 +15,7 @@ public static class MauiProgram
         }).UseMauiCommunityToolkit();
 
         builder.Services.AddSingleton<MainPage>();
+        builder.Services.AddSingleton<MainPageViewModel>();
 
         return builder.Build();
     }
