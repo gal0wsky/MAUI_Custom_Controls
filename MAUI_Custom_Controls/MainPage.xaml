@@ -45,6 +45,11 @@
             </VerticalStackLayout>-->
 
             <VerticalStackLayout x:DataType="viewmodels:MainPageViewModel">
+                <Button Text="Swipe Page"
+                        Command="{Binding GoToSwipePageCommand}"
+                        IsEnabled="{Binding IsNotBusy}"
+                        Margin="0, 20"/>
+
                 <Button Text="Click to rotate"
                         Command="{Binding RefreshLongCommand}"
                         IsEnabled="{Binding IsNotBusy}"/>

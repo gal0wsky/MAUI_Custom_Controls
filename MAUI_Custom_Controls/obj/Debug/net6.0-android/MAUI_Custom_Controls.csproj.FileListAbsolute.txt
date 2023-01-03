@@ -1910,9 +1910,9 @@ C:/Users/macie/Desktop/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.0-android/stamp/_GenerateJavaStubs.stamp
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.0-android/stamp/_GeneratePackageManagerJava.stamp
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.0-android/stamp/_ResolveLibraryProjectImports.stamp
-/Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.0-android/android/assets/mscorlib.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.0-android/android/assets/MvvmHelpers.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.0-android/android/assets/MvvmHelpers.pdb
+/Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.0-android/android/assets/mscorlib.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.0-android/android/assets/System.Collections.Concurrent.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.0-android/android/assets/System.Data.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/obj/Debug/net6.0-android/android/assets/System.dll

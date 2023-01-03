@@ -17,6 +17,12 @@ namespace MAUI_Custom_Controls.ViewModels
 			await Task.Delay(5000);
 			IsBusy = false;
 		}
+
+		[RelayCommand]
+		async Task GoToSwipePage()
+		{
+			await Shell.Current.GoToAsync($"{nameof(SwipePage)}");
+		}
 	}
 }
 

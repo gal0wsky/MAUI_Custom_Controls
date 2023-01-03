@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{6C166343-102F-459C-B282-6819588A7C36}|Default">
-  <MonoDevelop.Ide.ItemProperties.MAUI__Custom__Controls PreferredExecutionTarget="Android.Pixel_3a_API_33_arm64-v8a" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_33_arm64-v8a" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MAUI_Custom_Controls/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MAUI_Custom_Controls/ViewModels/SwipePageViewModel.cs">
     <Files>
-      <File FileName="MAUI_Custom_Controls/MainPage.xaml.cs" Line="39" Column="83" />
-      <File FileName="MAUI_Custom_Controls/MainPage.xaml" Line="56" Column="41" />
+      <File FileName="MAUI_Custom_Controls/ViewModels/SwipePageViewModel.cs" Line="33" Column="6" />
+      <File FileName="MAUI_Custom_Controls/SwipePage.xaml" Line="18" Column="40" />
+      <File FileName="MAUI_Custom_Controls/SwipePage.xaml.cs" Line="48" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,21 +15,19 @@
           <Node name="MAUI_Custom_Controls" expanded="True">
             <Node name="MAUI_Custom_Controls" expanded="True">
               <Node name="CustomControls" expanded="True" />
-              <Node name="ViewModels" expanded="True">
-                <Node name="MainPageViewModel.cs" selected="True" />
-              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
+              <Node name="SwipePage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.99.61" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MAUI__Custom__Controls PreferredExecutionTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

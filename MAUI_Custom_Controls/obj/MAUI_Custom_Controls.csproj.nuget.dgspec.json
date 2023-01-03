@@ -18,7 +18,7 @@
           "/Users/gal0wsky/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-android",
+          "net6.0-android31.0",
           "net6.0-ios"
         ],
         "sources": {
@@ -27,7 +27,7 @@
         },
         "frameworks": {
           "net6.0-android31.0": {
-            "targetAlias": "net6.0-android",
+            "targetAlias": "net6.0-android31.0",
             "projectReferences": {}
           },
           "net6.0-ios16.1": {
@@ -43,7 +43,7 @@
       },
       "frameworks": {
         "net6.0-android31.0": {
-          "targetAlias": "net6.0-android",
+          "targetAlias": "net6.0-android31.0",
           "dependencies": {
             "CommunityToolkit.Maui": {
               "target": "Package",

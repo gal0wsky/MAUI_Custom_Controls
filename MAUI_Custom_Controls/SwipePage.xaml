@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI_Custom_Controls.SwipePage"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:viewmodels="clr-namespace:MAUI_Custom_Controls.ViewModels"
+             x:DataType="viewmodels:SwipePageViewModel"
+             Title="SwipePage"
+             BackgroundColor="Black">
+
+    <VerticalStackLayout>
+        <Button Text="{Binding ButtonText, Mode=TwoWay}"
+                    Command="{Binding AnimationPlayCommand}"
+                    Margin="50,20,50,100"/>
+
+        <VerticalStackLayout x:Name="Container"
+                             HorizontalOptions="Center"
+                             Opacity="0">
+
+            <Label Text="Swipe up to continue"
+                   TextColor="GreenYellow"
+                   FontSize="30"/>
+
+            <Label Text="^"
+                   FontSize="40"
+                   HorizontalTextAlignment="Center"
+                   TextColor="GreenYellow"/>
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>
