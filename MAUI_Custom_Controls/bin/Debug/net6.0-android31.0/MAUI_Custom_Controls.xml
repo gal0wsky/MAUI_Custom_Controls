@@ -16,6 +16,12 @@
         <member name="P:MAUI_Custom_Controls.ViewModels.MainPageViewModel.GoToSwipePageCommand">
             <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MAUI_Custom_Controls.ViewModels.MainPageViewModel.GoToSwipePage"/>.</summary>
         </member>
+        <member name="F:MAUI_Custom_Controls.ViewModels.MenuViewModel.menuItemClickedCommand">
+            <summary>The backing field for <see cref="P:MAUI_Custom_Controls.ViewModels.MenuViewModel.MenuItemClickedCommand"/>.</summary>
+        </member>
+        <member name="P:MAUI_Custom_Controls.ViewModels.MenuViewModel.MenuItemClickedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:MAUI_Custom_Controls.ViewModels.MenuViewModel.MenuItemClicked"/>.</summary>
+        </member>
         <member name="F:MAUI_Custom_Controls.ViewModels.SwipePageViewModel.animationPlayCommand">
             <summary>The backing field for <see cref="P:MAUI_Custom_Controls.ViewModels.SwipePageViewModel.AnimationPlayCommand"/>.</summary>
         </member>

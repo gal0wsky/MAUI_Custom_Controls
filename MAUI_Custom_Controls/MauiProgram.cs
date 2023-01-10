@@ -15,6 +15,7 @@ public static class MauiProgram
         }).UseMauiCommunityToolkit();
 
         builder.Services.AddSingleton<MainPage>();
+        builder.Services.AddSingleton<LoginPage>();
         builder.Services.AddSingleton<SwipePage>();
         builder.Services.AddSingleton<MainPageViewModel>();
         builder.Services.AddSingleton<SwipePageViewModel>();

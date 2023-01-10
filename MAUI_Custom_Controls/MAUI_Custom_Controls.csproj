@@ -67,6 +67,9 @@
 	  <MauiXaml Update="SwipePage.xaml">
 	    <SubType></SubType>
 	  </MauiXaml>
+	  <MauiXaml Update="LoginPage.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
 	</ItemGroup>
 	<ItemGroup>
 	  <None Remove="CommunityToolkit.Maui" />

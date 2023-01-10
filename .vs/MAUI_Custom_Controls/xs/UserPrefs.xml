@@ -3,11 +3,17 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MAUI_Custom_Controls/ViewModels/SwipePageViewModel.cs">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <MonoDevelop.Ide.ItemProperties.MAUI__Custom__Controls PreferredExecutionTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.99.61" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MAUI_Custom_Controls/AppShell.xaml">
     <Files>
-      <File FileName="MAUI_Custom_Controls/ViewModels/SwipePageViewModel.cs" Line="33" Column="6" />
-      <File FileName="MAUI_Custom_Controls/SwipePage.xaml" Line="18" Column="40" />
-      <File FileName="MAUI_Custom_Controls/SwipePage.xaml.cs" Line="48" Column="34" />
+      <File FileName="MAUI_Custom_Controls/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="MAUI_Custom_Controls/AppShell.xaml" Line="12" Column="36" />
+      <File FileName="MAUI_Custom_Controls/ViewModels/MenuViewModel.cs" Line="28" Column="14" />
+      <File FileName="MAUI_Custom_Controls/AppShell.xaml.cs" Line="15" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +22,9 @@
             <Node name="MAUI_Custom_Controls" expanded="True">
               <Node name="CustomControls" expanded="True" />
               <Node name="ViewModels" expanded="True" />
-              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True">
+                <Node name="AppShell.xaml.cs" selected="True" />
+              </Node>
               <Node name="MainPage.xaml" expanded="True" />
               <Node name="SwipePage.xaml" expanded="True" />
             </Node>
@@ -25,9 +33,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.99.61" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.MAUI__Custom__Controls PreferredExecutionTarget="Android.Pixel_3a_API_33_arm64-v8a" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_33_arm64-v8a" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
