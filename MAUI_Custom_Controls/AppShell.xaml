@@ -18,6 +18,11 @@
         Route="MainPage" />
 
     <ShellContent
+        Title="Scroll Animation"
+        ContentTemplate="{DataTemplate local:ScrollAnimationPage}"
+        Route="ScrollAnimationPage" />
+
+    <ShellContent
         Title="Login"
         ContentTemplate="{DataTemplate local:LoginPage}"
         Route="LoginPage" />

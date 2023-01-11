@@ -17,8 +17,10 @@ public static class MauiProgram
         builder.Services.AddSingleton<MainPage>();
         builder.Services.AddSingleton<LoginPage>();
         builder.Services.AddSingleton<SwipePage>();
+        builder.Services.AddSingleton<ScrollAnimationPage>();
         builder.Services.AddSingleton<MainPageViewModel>();
         builder.Services.AddSingleton<SwipePageViewModel>();
+        builder.Services.AddSingleton<ScrollAnimationViewModel>();
 
         return builder.Build();
     }

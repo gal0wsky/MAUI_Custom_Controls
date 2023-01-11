@@ -13,6 +13,7 @@
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Options.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Extensions.Primitives.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.Maui.Graphics.dll
+/Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/MvvmHelpers.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.CSharp.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.VisualBasic.Core.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/Microsoft.VisualBasic.dll
