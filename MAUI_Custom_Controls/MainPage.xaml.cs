@@ -27,9 +27,9 @@ public partial class MainPage : ContentPage
 
     private void Vm_PropertyChanged(object sender, PropertyChangedEventArgs e)
     {
-		if (e.PropertyName == nameof(vm.IsBusy))
+		if (e.PropertyName == nameof(vm.RotationEnabled))
 		{
-			if (vm.IsBusy)
+			if (vm.RotationEnabled)
 			{
                 //animate
 

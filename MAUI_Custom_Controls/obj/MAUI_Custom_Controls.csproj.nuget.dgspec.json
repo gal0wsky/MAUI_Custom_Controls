@@ -63,6 +63,10 @@
               "version": "[6.0.548, )",
               "autoReferenced": true
             },
+            "Plugin.Fingerprint": {
+              "target": "Package",
+              "version": "[3.0.0-beta.1, )"
+            },
             "Refractored.MvvmHelpers": {
               "target": "Package",
               "version": "[1.6.2, )"
@@ -138,7 +142,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.android-arm64",
-              "version": "[6.0.12, 6.0.12]"
+              "version": "[6.0.13, 6.0.13]"
             }
           ],
           "frameworkReferences": {
@@ -180,6 +184,10 @@
               "target": "Package",
               "version": "[6.0.548, )",
               "autoReferenced": true
+            },
+            "Plugin.Fingerprint": {
+              "target": "Package",
+              "version": "[3.0.0-beta.1, )"
             },
             "Refractored.MvvmHelpers": {
               "target": "Package",

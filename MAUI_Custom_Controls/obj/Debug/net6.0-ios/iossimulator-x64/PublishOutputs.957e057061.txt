@@ -11,6 +11,7 @@
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MAUI_Custom_Controls.app/Microsoft.Extensions.Options.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MAUI_Custom_Controls.app/Microsoft.Extensions.Primitives.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MAUI_Custom_Controls.app/Microsoft.Maui.Graphics.dll
+/Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MAUI_Custom_Controls.app/Plugin.Fingerprint.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MAUI_Custom_Controls.app/MvvmHelpers.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MAUI_Custom_Controls.app/MAUI_Custom_Controls.dll
 /Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MAUI_Custom_Controls.app/Microsoft.CSharp.dll

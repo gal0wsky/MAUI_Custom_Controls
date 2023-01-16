@@ -1,5 +1,7 @@
 ﻿using CommunityToolkit.Maui;
 using MAUI_Custom_Controls.ViewModels;
+using Plugin.Fingerprint;
+using Plugin.Fingerprint.Abstractions;
 
 namespace MAUI_Custom_Controls;
 public static class MauiProgram
@@ -21,6 +23,8 @@ public static class MauiProgram
         builder.Services.AddSingleton<MainPageViewModel>();
         builder.Services.AddSingleton<SwipePageViewModel>();
         builder.Services.AddSingleton<ScrollAnimationViewModel>();
+
+        builder.Services.AddSingleton(typeof(IFingerprint), CrossFingerprint.Current);
 
         return builder.Build();
     }

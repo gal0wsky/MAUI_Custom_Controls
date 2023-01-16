@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8W8mxAqURfpcdTTHzzqghAX+vUv3PcyJoSpg7XmZHfB3jAwXljy0yT4Z8HpaPOnd2HgZAq8d1Vr8wsmP/ImuhA==",
+  "dgSpecHash": "NgOk3Axr6UK7NnetR/GXL02gKk66eySN8Vxy3Ny+Fmed4Q2ZfvtzkJDo/NUIzeSLWeLUa8MEqCXnKWxTqNAa/Q==",
   "success": true,
   "projectFilePath": "/Users/gal0wsky/Documents/Projekty/MAUI/MAUI_Custom_Controls/MAUI_Custom_Controls/MAUI_Custom_Controls.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "/Users/gal0wsky/.nuget/packages/microsoft.maui.dependencies/6.0.548/microsoft.maui.dependencies.6.0.548.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/microsoft.maui.extensions/6.0.548/microsoft.maui.extensions.6.0.548.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/microsoft.maui.graphics/6.0.501/microsoft.maui.graphics.6.0.501.nupkg.sha512",
+    "/Users/gal0wsky/.nuget/packages/plugin.fingerprint/3.0.0-beta.1/plugin.fingerprint.3.0.0-beta.1.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/refractored.mvvmhelpers/1.6.2/refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
@@ -37,6 +38,7 @@
     "/Users/gal0wsky/.nuget/packages/xamarin.androidx.arch.core.common/2.1.0.14/xamarin.androidx.arch.core.common.2.1.0.14.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/xamarin.androidx.arch.core.runtime/2.1.0.14/xamarin.androidx.arch.core.runtime.2.1.0.14.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/xamarin.androidx.asynclayoutinflater/1.0.0.13/xamarin.androidx.asynclayoutinflater.1.0.0.13.nupkg.sha512",
+    "/Users/gal0wsky/.nuget/packages/xamarin.androidx.biometric/1.1.0.9/xamarin.androidx.biometric.1.1.0.9.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/xamarin.androidx.browser/1.4.0.1/xamarin.androidx.browser.1.4.0.1.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/xamarin.androidx.cardview/1.0.0.15/xamarin.androidx.cardview.1.0.0.15.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/xamarin.androidx.collection/1.2.0.3/xamarin.androidx.collection.1.2.0.3.nupkg.sha512",
@@ -119,7 +121,7 @@
     "/Users/gal0wsky/.nuget/packages/microsoft.maui.core.runtime.android/6.0.548/microsoft.maui.core.runtime.android.6.0.548.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/microsoft.maui.essentials.ref.android/6.0.548/microsoft.maui.essentials.ref.android.6.0.548.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/microsoft.maui.essentials.runtime.android/6.0.548/microsoft.maui.essentials.runtime.android.6.0.548.nupkg.sha512",
-    "/Users/gal0wsky/.nuget/packages/microsoft.netcore.app.runtime.mono.android-arm64/6.0.12/microsoft.netcore.app.runtime.mono.android-arm64.6.0.12.nupkg.sha512",
+    "/Users/gal0wsky/.nuget/packages/microsoft.netcore.app.runtime.mono.android-arm64/6.0.13/microsoft.netcore.app.runtime.mono.android-arm64.6.0.13.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/microsoft.ios.ref/16.1.229/microsoft.ios.ref.16.1.229.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/microsoft.ios.runtime.iossimulator-x64/16.1.229/microsoft.ios.runtime.iossimulator-x64.16.1.229.nupkg.sha512",
     "/Users/gal0wsky/.nuget/packages/microsoft.maui.controls.ref.ios/6.0.548/microsoft.maui.controls.ref.ios.6.0.548.nupkg.sha512",

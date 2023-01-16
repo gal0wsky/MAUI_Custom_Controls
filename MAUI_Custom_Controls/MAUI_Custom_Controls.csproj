@@ -79,11 +79,13 @@
 	  <None Remove="CommunityToolkit.Mvvm" />
 	  <None Remove="Microsoft.Toolkit.Mvvm" />
 	  <None Remove="ViewModels\" />
+	  <None Remove="Plugin.Fingerprint" />
 	</ItemGroup>
 	<ItemGroup>
 	  <PackageReference Include="CommunityToolkit.Maui" Version="1.2.0" />
 	  <PackageReference Include="CommunityToolkit.Mvvm" Version="8.0.0" />
 	  <PackageReference Include="Refractored.MvvmHelpers" Version="1.6.2" />
+	  <PackageReference Include="Plugin.Fingerprint" Version="3.0.0-beta.1" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="ViewModels\" />

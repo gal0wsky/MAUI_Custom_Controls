@@ -68,6 +68,13 @@
                 </Frame>
             </VerticalStackLayout>
 
+            <Button Command="{Binding BiometricAuthenticationCommand}"
+                    Text="Use Fingerprint"
+                    TextColor="White"
+                    HorizontalOptions="Center"
+                    BackgroundColor="{StaticResource Primary}"
+                    IsEnabled="{Binding IsNotBusy}"/>
+
         </VerticalStackLayout>
     </ScrollView>
 
